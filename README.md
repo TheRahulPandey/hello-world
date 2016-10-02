@@ -1,2 +1,4 @@
 # hello-world
-Hello to the Github
+Hello Humans!
+
+I like WebDev programmes and C languages.
